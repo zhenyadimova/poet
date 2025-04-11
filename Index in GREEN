@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <title>Женя Димова – Поет на живота</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Georgia, serif; background: #fdf6f0; color: #333; margin: 0; padding: 0; }
+        header, footer { background: #BAB86C; color: white; text-align: center; padding: 1.5rem; }
+        nav a { margin: 0 1rem; text-decoration: none; color: #333; font-weight: bold; }
+        nav { background: #f5f4d0; padding: 1rem; text-align: center; }
+        main { padding: 2rem; max-width: 800px; margin: auto; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Женя Димова – Поет на живота</h1>
+    </header>
+    <nav>
+        <a href="index.html">Начало</a>
+        <a href="about.html">За мен</a>
+        <a href="poetry.html">Поезия</a>
+        <a href="awards.html">Награди</a>
+        <a href="shop.html">Пазарувай</a>
+        <a href="handmade.html">Измайсторено на ръка</a>
+    </nav>
+    <main>
+        <h2>Добре дошли!</h2>
+        <p>Това е официалният сайт на Женя Димова – поет, творец и вдъхновител.</p>
+    </main>
+    <footer>
+        © 2025 Женя Димова
+    </footer>
+</body>
+</html>
